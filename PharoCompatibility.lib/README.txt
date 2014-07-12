@@ -1,0 +1,1 @@
+This class library should contain any extensions to Essence# that are specifically for the purpose of compatibility with Pharo.
